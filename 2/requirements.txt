@@ -1,0 +1,4 @@
+flask
+flasgger
+flask-restx
+MarkupSafe==2.0.1
